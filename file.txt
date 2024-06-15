@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-file1 (master branch)
-=======
-file1 (firstBranch)
->>>>>>> firstBranch
+original file -> file1 (master branch)
+mearged file -> file1 (firstBranch)
+
